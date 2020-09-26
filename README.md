@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm Javier, a .net Programmer in continuous learning. Check the repositories to find something that helps you. Good luck
+I'm Javier, .net Programmer. Check the repositories to find something that helps you. Good luck
 
 ---
 
