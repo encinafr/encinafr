@@ -5,7 +5,7 @@ I'm Javier, a .net Programmer in continuous learning. Check the repositories to 
 
 ###  Tools and Lanuages  🚀🔧 💻 
 <pre style="background-color:white">
-<pre style="background-color:white">
+<div style="background-color:white">
 <img align="left" style="background-color:white" alt="csharp"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" style="background-color:white" alt="dotnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img align="left" style="background-color:white" alt="aspnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
@@ -16,7 +16,7 @@ I'm Javier, a .net Programmer in continuous learning. Check the repositories to 
 <img align="left" style="background-color:white" alt="Azure"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" style="background-color:white" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </pre>
-</pre>
+</div>
 
 <br />
 <br />
