@@ -5,6 +5,8 @@ I'm Javier, a .net Programmer in continuous learning. Check the repositories to 
 
 ###  Tools and Languages  🚀🔧 💻 
 <pre><code>
+<div style="background-color:white;">
+<div>
 <img align="left" alt="csharp"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </code></pre>
